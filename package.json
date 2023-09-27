@@ -1,0 +1,6 @@
+{
+  "name": "mybigqueryrepo",
+  "dependencies": {
+    "@dataform/core": "2.4.2"
+  }
+}
